@@ -8,6 +8,7 @@
 - Optimize pricing strategies based on profit margins
 
 ## DataSet & DashBoard
+- <a href="https://github.com/Shahdgmal/Sales-Performance-In-Excel/blob/main/Sales.xlsx">DataSet&DashBoard</a>
 
 ## Key Questions & KPIs
 ### Financial Performance:
